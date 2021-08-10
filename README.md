@@ -44,7 +44,7 @@ Genjutsu, Escanor, Lite UPDATE
 + Added 1.17.1 minecraft support
 + Fixed some bugs
 
-#1.4.0 Escanor
+# 1.4.0 Escanor
 ### User related stuff
 - Cleaned up much code
 - Added geyser support - you have to regenerate your config and enable the support 
