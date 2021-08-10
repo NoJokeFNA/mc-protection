@@ -45,8 +45,6 @@ Genjutsu, Escanor, Lite UPDATE
 + Fixed some bugs
 
 1.4.0 Escanor
-## All updates until now:
-
 ### User related stuff
 - Cleaned up much code
 - Added geyser support - you have to regenerate your config and enable the support 
