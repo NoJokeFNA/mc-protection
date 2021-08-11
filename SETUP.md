@@ -1,4 +1,4 @@
- # Basic security
+# Basic security
 
 ## :fire: Firewall :fire:
 > - You should use a good firewall that limits PPS & CPS so that bot systems can't reach their full performance.
