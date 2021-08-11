@@ -23,3 +23,6 @@
 ## :wrench: Aegis :wrench:
 > - With Aegis you are protected by 2 basic checks (drop + captcha), which don't bypass all bots, but you have to buy a subscription of 15+ Euro - if it's not even false advertisement.
 > - Through umpteen other checks, as well as logical processors that check if it's a bot, you can also be extra protected again.
+
+# Disclaimer
+We are not responsible for any damage on your network. You setup everything on your own risk.
