@@ -28,7 +28,7 @@
 >   - Put the plugin on your lobby servers.
 
 ## :wrench: Aegis :wrench:
-> - With Aegis, you are protected by 2 basic checks (drop + captcha), which don't bypass all bots, but you have to buy a subscription of 15+ Euro - if it's not even false advertisement.
+> - With Aegis, you are protected by 2 basic checks (drop + captcha), which certainly don't bypass all bots, but you have to buy a subscription of 15+ euros - if it's not even false advertising.
 > - Through umpteen other checks, as well as logical processors that check if it's a bot, you can also be extra protected again.
 
 # Disclaimer
