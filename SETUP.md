@@ -32,4 +32,4 @@
 > - Through umpteen other checks, as well as logical processors that check if it's a bot, you can also be extra protected again.
 
 # Disclaimer
-We are not responsible for any damage on your network. You set up everything on your own risk.
+We are not responsible for any damage to your network. You set up everything at your own risk.
