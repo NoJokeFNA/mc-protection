@@ -3,7 +3,7 @@
 ## :fire: Firewall :fire:
 > - You should use a good firewall that limits PPS & CPS so that bot systems can't reach their full performance.
 > - You should also block anything that could bypass the server in any way.
->   - Like for example NullPings.
+>   - Like for example [NullPing](https://www.spigotmc.org/wiki/firewall-guide/).
 > - We recommend you this firewall here: https://github.com/GaetanOff/Firewall-Template
 > - If you are using our blacklist-feature, which you can enable in the config, you also have to setup 3 more things.
 >   - First of all, you have to install [IPSet](https://confluence.jaytaala.com/display/TKB/Using+ipset+to+block+IP+addresses+-+firewall), you can easily do this by executing: `sudo apt-get install ipset`
