@@ -5,6 +5,12 @@
 > - You should also block anything that could bypass the server in any way.
 >   - Like for example NullPings.
 > - We recommend you this firewall here: https://github.com/GaetanOff/Firewall-Template
+> - If you are using our blacklist-feature, which you can enable in the config, you also have to setup 3 more things.
+>   - First of all, you have to install [IPSet](https://confluence.jaytaala.com/display/TKB/Using+ipset+to+block+IP+addresses+-+firewall), you can easily do this by executing: `sudo apt-get install ipset`
+>     - You can check if it is installed simply by executing: `sudo ipset`
+>   - After you have successfully installed IPSet, you now have to execute 2 more commands
+>     - `iptables -I INPUT -m set --match-set blacklist src -j DROP`
+>     - `iptables -I FORWARD -m set --match-set blacklist src -j DROP`
 >   - If you are using iptables-persistent, please follow the steps below.
 >     - First of all, you have to [remove](https://github.com/GaetanOff/Firewall-Template/blob/master/reset) your old rules.
 >       - Check if you rules got correctly removed: `sudo iptables -S`.
