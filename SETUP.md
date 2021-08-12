@@ -12,14 +12,14 @@
 >     - `sudo ipset create -! blacklist hash:ip hashsize 15000`
 >     - `sudo iptables -I INPUT -m set --match-set blacklist src -j DROP`
 >     - `sudo iptables -I FORWARD -m set --match-set blacklist src -j DROP`
->   - If you are using iptables-persistent, please follow the steps below.
->     - First, you have to [remove](https://github.com/GaetanOff/Firewall-Template/blob/master/reset) your old rules.
->       - Check if you all your rules got correctly removed: `sudo iptables -S`.
->       - If it only contains `INPUT ACCEPT`, `FORWARD ACCEPT` & `OUTPUT ACCEPT` rules, you did everything right.
->     - Now you have to [apply](https://github.com/GaetanOff/Firewall-Template/blob/master/rules) the new firewall rules.
->       - Check if you all your rules got correctly updated: `sudo iptables -S`.
->     - Now you have to save your current rules, so they won't get lost: `sudo iptables-save > <directory>/<filename>`.
->     - After you have successfully saved your rules, you just have to apply them: `sudo iptables-apply <directory>/<filename>`.
+> - If you are using iptables-persistent, please follow the steps below.
+>   - First, you have to [remove](https://github.com/GaetanOff/Firewall-Template/blob/master/reset) your old rules.
+>     - Check if you all your rules got correctly removed: `sudo iptables -S`.
+>     - If it only contains `INPUT ACCEPT`, `FORWARD ACCEPT` & `OUTPUT ACCEPT` rules, you did everything right.
+>   - Now you have to [apply](https://github.com/GaetanOff/Firewall-Template/blob/master/rules) the new firewall rules.
+>     - Check if you all your rules got correctly updated: `sudo iptables -S`.
+>   - Now you have to save your current rules, so they won't get lost: `sudo iptables-save > <directory>/<filename>`.
+>   - After you have successfully saved your rules, you just have to apply them: `sudo iptables-apply <directory>/<filename>`.
 
 ## :rocket: AntiVPN :rocket:
 > - In any case you should also use an AntiVPN system.
