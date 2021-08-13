@@ -4,7 +4,7 @@
 > - You should use a good firewall that limits PPS & CPS so that bot systems can't reach their full performance.
 > - You should also block anything that could bypass the server in any way.
 >   - Like for example [NullPing](https://www.spigotmc.org/wiki/firewall-guide/).
-> - We recommend you this firewall here: https://github.com/GaetanOff/Firewall-Template
+> - We recommend the use of this firewall: https://github.com/GaetanOff/Firewall-Template
 > - If you are using our blacklist-feature, which you can enable in the config, you also have to set up 3 more things.
 >   - First, you have to install [IPSet](https://confluence.jaytaala.com/display/TKB/Using+ipset+to+block+IP+addresses+-+firewall), you can easily do this by executing: `sudo apt-get install ipset`
 >     - You can check if it is installed simply by executing: `sudo ipset`
@@ -22,7 +22,7 @@
 ## :rocket: AntiVPN :rocket:
 > - In any case you should also use an AntiVPN system.
 > - This can be used to contain almost all attacks, because it simply runs over tens of proxies.
-> - We recommend this AntiVPN system: https://www.spigotmc.org/resources/gatekeeper-advanced-antivpn-antiproxy.70895/
+> - We recommend the use of this AntiVPN-System: https://www.spigotmc.org/resources/gatekeeper-advanced-antivpn-antiproxy.70895/
 >   - Put the plugin on your lobby servers.
 
 ## :wrench: Aegis :wrench:
