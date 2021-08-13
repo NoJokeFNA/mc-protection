@@ -13,13 +13,11 @@
 >     - `sudo iptables -I INPUT -m set --match-set blacklist src -j DROP`
 >     - `sudo iptables -I FORWARD -m set --match-set blacklist src -j DROP`
 > - If you are using iptables-persistent, please follow the steps below.
->   - First, you have to [remove](https://github.com/GaetanOff/Firewall-Template/blob/master/reset) your old rules.
->     - Check if you all your rules got correctly removed: `sudo iptables -S`.
->     - If it only contains `INPUT ACCEPT`, `FORWARD ACCEPT` & `OUTPUT ACCEPT` rules, you did everything right.
->   - Now you have to [apply](https://github.com/GaetanOff/Firewall-Template/blob/master/rules) the new firewall rules.
+>   - Please don't run this file unless you are sure that you are not deleting important firewall data.
+>   - After making sure that you don't delte any important firewall data, you can run [this file](https://github.com/GaetanOff/Firewall-Template/blob/master/rules) with the new firewall rules.
 >     - Check if you all your rules got correctly updated: `sudo iptables -S`.
->   - Now you have to save your current rules, so they won't get lost: `sudo iptables-save > <directory>/<filename>`.
->   - After you have successfully saved your rules, you just have to apply them: `sudo iptables-apply <directory>/<filename>`.
+>   - Now you have to save your current rules, so they won't get lost: `sudo iptables-save > <path-to-file>.txt`.
+>   - After you have successfully saved your rules, you just have to apply them: `sudo iptables-apply <path-to-file>.txt`.
 
 ## :rocket: AntiVPN :rocket:
 > - In any case you should also use an AntiVPN system.
