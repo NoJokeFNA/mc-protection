@@ -17,9 +17,11 @@
 >   - After making sure that you don't delte any important firewall data, you can run [this file](https://github.com/GaetanOff/Firewall-Template/blob/master/rules) with the new firewall rules.
 >     - Check if you all your rules got correctly updated: `sudo iptables -S`
 >   - Now you have to save your current rules, so they won't get lost (2 options - choose one of them):
->     - `sudo iptables-save > <path-to-file>.txt`
->     - After you have successfully saved your rules, you just have to apply them: `sudo iptables-apply <path-to-file>.txt`
->   - `sudo iptables-save`
+>     - First option:
+>       - `sudo iptables-save > <path-to-file>.txt`
+>       - After you have successfully saved your rules, you just have to apply them: `sudo iptables-apply <path-to-file>.txt`
+>   - Second option:
+>     - `sudo iptables-save`
 
 ## :rocket: AntiVPN :rocket:
 > - In any case you should also use an AntiVPN system.
