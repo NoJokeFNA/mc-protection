@@ -1,4 +1,4 @@
-# Basic security
+# Basic security & setup
 
 ## :fire: Firewall :fire:
 > - You should use a good firewall that limits PPS & CPS so that bot systems can't reach their full performance.
@@ -32,6 +32,11 @@
 ## :wrench: Aegis :wrench:
 > - With Aegis, you are protected by 2 basic checks (drop + captcha), which certainly don't bypass all bots, but you have to buy a subscription of 15+ euros - if it's not even false advertising.
 > - Through umpteen other checks, as well as logical processors that check if it's a bot, you can also be extra protected again.
+> - If you use our captcha feature, you have to install one packet to your machine: `sudo apt-get install font-manager`
+>   - If you face any issues with this, try the following solutions:
+>     - Install `libfontconfig1` and/or `fontconfig` and/or `libxtst6` to your system by using `sudo apt-get install`
+>     - Add `-Djava.awt.headless=true` to your startup flags (`java -Xmx... ... -Djava.awt.headless=true -jar BungeeCord.jar`)
+>   - If you are using [pterodactyl](https://pterodactyl.io/), it may won't work. You have to contact their support.
 
 # Disclaimer
 We are not responsible for any damage to your network. You set up everything at your own risk.
