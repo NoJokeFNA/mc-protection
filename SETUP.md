@@ -12,7 +12,7 @@
 >     - `sudo ipset create -! blacklist hash:ip hashsize 15000`
 >     - `sudo iptables -I INPUT -m set --match-set blacklist src -j DROP`
 >     - `sudo iptables -I FORWARD -m set --match-set blacklist src -j DROP`
-> - If you are using iptables-persistent, please follow the steps below.
+> - If you are using [iptables-persistent](https://www.thomas-krenn.com/en/wiki/Saving_Iptables_Firewall_Rules_Permanently), please follow the steps below.
 >   - Please don't run this file unless you are sure that you are not deleting important firewall data.
 >   - After making sure that you don't delte any important firewall data, you can run [this file](https://github.com/GaetanOff/Firewall-Template/blob/master/rules) with the new firewall rules.
 >     - Check if you all your rules got correctly updated: `sudo iptables -S`
