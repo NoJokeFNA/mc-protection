@@ -13,3 +13,12 @@
 - Fixed Knockback
 - Fixed ticks optimization
 - Fixed explosions
+
+### 1.2.4 beta
+- Fixed crashes
+- Fixed knockback
+- Fixed issues with spawners
+- Removed useless features
+- Spigot now compatible with java 16 (credit to nachospigot for netty update)
+- Added some optimizations
+- Updated some libraries for minecraft server
