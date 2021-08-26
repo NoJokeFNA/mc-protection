@@ -22,3 +22,6 @@
 - Spigot now compatible with java 16 (credit to nachospigot for netty update)
 - Added some optimizations
 - Updated some libraries for minecraft server
+
+### 1.2.5 beta
+- Fixed [Citizens](https://www.spigotmc.org/resources/citizens.13811/)
