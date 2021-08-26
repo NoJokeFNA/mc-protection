@@ -1,7 +1,7 @@
 # AtomSpigot changelog
 
 ### 1.0 beta RECODED
-- recoded literally everything
+- Recoded literally everything
 
 ### 1.1 beta
 - Fixed Block places with [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)
