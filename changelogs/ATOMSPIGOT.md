@@ -25,3 +25,8 @@
 
 ### 1.2.5 beta
 - Fixed [Citizens](https://www.spigotmc.org/resources/citizens.13811/)
+
+### 1.2.6 beta
+- Fixed ProtocolLib
+- Fixed 1.17.1 logins with ViaVersion
+- Fixed TPS drops with citizens
