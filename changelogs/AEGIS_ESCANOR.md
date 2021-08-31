@@ -30,22 +30,22 @@
 ## 1.4.0
 ### User related stuff
 - Cleaned up much code
-- Added geyser support - you have to regenerate your config and enable the support
+- Added [Geyser](https://geysermc.org/) support - you have to regenerate your config and enable the support
 - Fixed some typos
 - Fixed some wrong prefixes
 - Removed some useless command aliases
 - Improved bot-handling
-- Using FastMath
-- Using FastUtil
+- Implemented FastMath
+- Implemented FastUtil
 - Updated whole BungeeCord - all new changes are applied
-- Fixed LuckPerms issues
+- Fixed [LuckPerms](https://luckperms.net/) issues
 - Fixed general plugin incompatibilities
 - Updated all dependencies
 - Added LibraryLoading feature
 - Support from Java 8 to Java 16 (Java 11 & 16 are the most stable ones)
 - Fixed Redis issues
 - Fixed BungeeTask issues
-- Updated BotFilter
+- Updated [BotFilter](https://github.com/Leymooo/BungeeCord)
 - Improved overall performance
 - Added blacklist name feature like in normal aegis
 - Greatly improved ColouredWriter
