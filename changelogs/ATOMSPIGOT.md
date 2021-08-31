@@ -30,3 +30,16 @@
 - Fixed ProtocolLib
 - Fixed 1.17.1 logins with ViaVersion
 - Fixed TPS drops with citizens
+
+### 1.2.7 beta
+- Added some patches from SportPaper (Related to chunks)
+- Re-coded custom grow ticks
+- Added knockback preset (kohi, lunar, new generation):
+  - Usage: /kb apply-preset <knockback> <lunar:kohi:newgen>
+  - In knockback menu: Shift + Click on the knockback item
+- Fixed Knockback profiles not saved after restart
+- Fixed knockback command
+- Added new value to knockback:
+  - NewGen: Disable motX and motZ modifiers for the attacker + it always calculate extra values
+- Fixed WTap values on knockback
+- Fixed some bugs
