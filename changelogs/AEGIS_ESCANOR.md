@@ -1,32 +1,5 @@
 # Aegis (Escanor) changelog
 
-### V1.1
-- Fixed new crasher
-
-### 1.2.0
-- Fixed some licensing stuff
-- Added geolite block in normal
-- Fixed some things
-
-### 1.2.1
-- Fixed some new possible crashers
-
-### 1.2.2
-- Fixing bots much faster, always async logins
-- Added packet size check
-- Better AntiCrash and AntiBot.
-
-### 1.2.3
-- Probably fixed some little bugs
-
-### 1.3.0
-- 1.17.x support
-
-### 1.3.1
-- Added 16 java support
-- Added 1.17.1 minecraft support
-- Fixed some bugs
-
 ## 1.4.0
 ### User related stuff
 - Cleaned up much code
@@ -53,5 +26,30 @@
 
 ### Developer related stuff
 - Fixed SLF4J logger
-- Fixed Java CI with Maven
-    - Improved Java CI with Maven cache
+
+### 1.3.1
+- Added Java 16 support
+- Added 1.17.1 minecraft support
+- Fixed some bugs
+
+### 1.3.0
+- 1.17.x support
+
+### 1.2.3
+- Probably fixed some little bugs
+
+### 1.2.2
+- Fixing bots much faster, always async logins
+- Added packet size check
+- Better AntiCrash and AntiBot.
+
+### 1.2.1
+- Fixed some new possible crashers
+
+### 1.2.0
+- Fixed some licensing stuff
+- Added geolite block in normal
+- Fixed some things
+
+### V1.1
+- Fixed new crasher
