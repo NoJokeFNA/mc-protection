@@ -1,55 +1,60 @@
 # Aegis (Escanor) changelog
 
-## 1.4.0
-### User related stuff
+All notable changes to this project will be documented in this file.
+
+## [1.5.0] - 2021-12
+
+### Added
+
+#### User related stuff
+
+- Added 1.18 support
+
+## [1.4.1] - 2021-08
+
+### Added
+
+#### User related stuff
+
+- Fixed Geyser support
+
+## [1.4.0] - 2021-08
+
+### Added
+
+#### User related stuff
+
 - Cleaned up much code
-- Added [Geyser](https://geysermc.org/) support - you have to regenerate your config and enable the support
-- Fixed some typos
-- Fixed some wrong prefixes
+- Added geyser support - you have to regenerate your config and enable the support
 - Removed some useless command aliases
 - Improved bot-handling
 - Implemented FastMath
 - Implemented FastUtil
-- Updated whole BungeeCord - all new changes are applied
-- Fixed [LuckPerms](https://luckperms.net/) issues
-- Fixed general plugin incompatibilities
+- Updated whole [BungeeCord](https://github.com/SpigotMC/BungeeCord) - all new changes are applied
 - Updated all dependencies
 - Added LibraryLoading feature
-- Support from Java 8 to Java 16 (Java 11 & 16 are the most stable ones)
-- Fixed Redis issues
-- Fixed BungeeTask issues
-- Updated [BotFilter](https://github.com/Leymooo/BungeeCord)
+- Support from Java 8 to Java 17-ea (Java 11 & 16 are the most stable ones)
+- Updated [BotFilter](https://github.com/Leymooo/BungeeCord) - all new changes are applied
 - Improved overall performance
 - Added blacklist name feature like in normal aegis
-- Greatly improved ColouredWriter
+- Greatly improved ColouredWriter [@Outfluencer](https://github.com/SpigotMC/BungeeCord/pull/3164)
+
+#### Developer related stuff
+
+- Fixed SLF4J logger
+- Fixed Java CI with Maven
+    - Improved Java CI with Maven cache
+
+### Changed
+
+- Fixed some typos
+- Fixed some wrong prefixes
+- Fixed LuckPerms issues
+- Fixed general plugin incompatibilities
+- Fixed Redis issues
+- Fixed BungeeTask issues
 - Re-did some messages
 
-### Developer related stuff
-- Fixed SLF4J logger
+### Removed
 
-### 1.3.1
-- Added Java 16 support
-- Added 1.17.1 minecraft support
-- Fixed some bugs
-
-### 1.3.0
-- 1.17.x support
-
-### 1.2.3
-- Probably fixed some little bugs
-
-### 1.2.2
-- Fixing bots much faster, always async logins
-- Added packet size check
-- Better AntiCrash and AntiBot.
-
-### 1.2.1
-- Fixed some new possible crashers
-
-### 1.2.0
-- Fixed some licensing stuff
-- Added geolite block in normal
-- Fixed some things
-
-### V1.1
-- Fixed new crasher
+- Some useless checks
