@@ -27,9 +27,9 @@
 > - In any case you should also use an AntiVPN system.
 > - This can be used to contain almost all attacks, because it simply runs over tens of proxies.
 > - We recommend the use of this AntiVPN-System:
->  -> https://www.spigotmc.org/resources/anti-vpn.58291/
->  -> https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/
->   - Put the plugin on your lobby servers.
+>   - https://www.spigotmc.org/resources/anti-vpn.58291/
+>   - https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/
+>     - Put the plugin on your lobby servers.
 
 ## :wrench: Aegis :wrench:
 > - With Aegis, you are protected by 2 basic checks (drop + captcha), which certainly don't bypass all bots, but you have to buy a subscription of 15+ euros - if it's not even false advertising.
