@@ -26,7 +26,7 @@
 ## :rocket: AntiVPN :rocket:
 > - In any case you should also use an AntiVPN system.
 > - This can be used to contain almost all attacks, because it simply runs over tens of proxies.
-> - We recommend the use of this AntiVPN-System: https://www.spigotmc.org/resources/gatekeeper-advanced-antivpn-antiproxy.70895/
+> - We recommend the use of this AntiVPN-System: https://www.spigotmc.org/resources/anti-vpn.58291/
 >   - Put the plugin on your lobby servers.
 
 ## :wrench: Aegis :wrench:
