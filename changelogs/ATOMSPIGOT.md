@@ -1,5 +1,24 @@
 # AtomSpigot changelog
 
+### 1.3.0 beta
+- Update - Ticks [You can put a number in it default is 150 on AtomSpigot]
+- Optimized Hoppers
+- Optimize Printer [Enable / Disable]
+- Added Movement Optimization [Enable / Disable]
+- Async Catcher [Enable / Disable]
+- Pledge Anticheat Packets / with the Pledge info command [Enable / Disable] (Credits to Thomas)
+- Server Name Option [AtomSpigot is the default name]
+- Enable FastMath [FastMath or NormalMath]
+- Lava To Cobble Option [Enable / Disable]
+- Player Move Event [Enable / Disable]
+- Disable Physics Place [Enable / Disable]
+- Added Custom Packets with a PacketHandler and MovementHandler
+- Enable ViaVersion [Enable / Disable] [Enable 1.8 - 1.18]
+- Enable ViaRewind [Enable / Disable] [Enable 1.7x]
+- Fixed Log4j Issue
+- Use ASM for Event Executors
+- Added Call Helper for Events 
+
 ### 1.2.8 beta
 - Changed "new gen" knockback presets
 - Reverted netty update (causes issues with some plugins)
