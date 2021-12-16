@@ -19,6 +19,9 @@
 - Use ASM for Event Executors
 - Added Call Helper for Events 
 
+### 1.2.9 beta
+- Fixed some issues
+
 ### 1.2.8 beta
 - Changed "new gen" knockback presets
 - Reverted netty update (causes issues with some plugins)
