@@ -1,5 +1,17 @@
 # AtomSpigot changelog
 
+### 1.4.0 beta
+**Important -** For the people who use AtomSpigot as a dependency in their plugin please add `AtomLibs` which is in your server/lib folder.
+- Huge Optimization reduced AtomSpigot Jar [From 55.000ko to 5.744ko]
+- Fixed MySQL Bug
+- Optimized TileEntitySign
+- Added LATEST Log4j
+- Added Leaves Decay Event [Enable/Disable]
+- Added Hide IPs in Console [Enable/Disable]
+- Added Enable ProtocolLib [Enable/Disable]
+- Added Snowball Particles Options [Enable/Disable]
+- Added Better Enchantment [Optimization]
+
 ### 1.3.0 beta
 - Update - Ticks [You can put a number in it default is 150 on AtomSpigot]
 - Optimized Hoppers
