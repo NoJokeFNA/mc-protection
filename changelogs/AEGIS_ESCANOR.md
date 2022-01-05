@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2022-01
+
+### Fixed
+
+#### User related stuff
+
+- Fixed Geyser-support
+
 ## [1.5.0] - 2021-12
 
 ### Added
