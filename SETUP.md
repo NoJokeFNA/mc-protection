@@ -63,5 +63,14 @@
        
 <hr>
 
+ ### LobbySystem - PlaceholderAPI Integration
+  - /papi ecloud download bungee
+  - /papi ecloud download localtime
+  - /papi ecloud download player
+  - /papi ecloud download playerlist
+  - /papi ecloud download server
+
+<hr>
+
 ## <b>❗Disclaimer</b>
 ### We are not responsible for any damage to your network. You set up everything at your own risk. 
