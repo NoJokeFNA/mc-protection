@@ -2,7 +2,7 @@
 
 ### 9.3.0 Genjutsu
 - Added 1.18 support and fixed a few things.
-- 
+
 ### 9.2.1 Genjutsu
 - Added 16 java support
 - Added 1.17.1 minecraft support
