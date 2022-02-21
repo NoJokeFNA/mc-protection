@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2022-02
+
+### Fixed
+
+#### User related stuff
+
+- Fixed Geyser issue
+- Fixed a bug where you couldn't join and also not receive an error message
+
+### Changed
+
+- Changed Geyser section in config (enable skip-drop to make Aegis work with Geyser)
+
 ## [1.6.0] - 2022-01
 
 ### Fixed
