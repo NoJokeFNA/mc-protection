@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.1] - 2022-02
+
+### Changed
+
+#### User related stuff
+
+- 1.18.2 player bypass captcha and drop check for now until this error is getting fixed
+
 ## [1.7.0] - 2022-02
 
 ### Added
