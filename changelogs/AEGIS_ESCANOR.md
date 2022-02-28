@@ -2,7 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.6.0] - 2022-02
+## [1.7.0] - 2022-02
+
+### Added
+
+#### User related stuff
+
+- Minecraft 1.18.2 support
+- Allow `-` and `.` in online mode as some accounts still have these usernames
+
+## [1.6.1] - 2022-02
 
 ### Fixed
 
