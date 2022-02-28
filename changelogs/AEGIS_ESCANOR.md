@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
 
 #### User related stuff
 
-- Minecraft 1.18.2 support
+- Added 1.18.2 support
 - Allow `-` and `.` in online mode as some accounts still have these usernames
 
 ## [1.6.1] - 2022-02
