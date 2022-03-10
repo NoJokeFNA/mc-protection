@@ -40,7 +40,7 @@
  - Through umpteen other checks, as well as logical processors that check if it's a bot, you can also be extra protected again.
  - If you use our captcha feature, you may have to install one package to your system: `sudo apt-get install font-manager`
    - If you face any issues with this, try the following solutions:
-     - Install `libfontconfig1` and/or `fontconfig` and/or `libxtst6` to your system: `sudo apt-get install <package-name`
+     - Install `libfontconfig1` and/or `fontconfig` and/or `libxtst6` to your system: `sudo apt-get install <package-name>`
      - Add `-Djava.awt.headless=true` to your startup flags (`java -Xmx... ... -Djava.awt.headless=true -jar BungeeCord.jar`)
    - If you are using [pterodactyl](https://pterodactyl.io/), it may won't work. You have to contact their support.
      - You can try to use the following docker images:
