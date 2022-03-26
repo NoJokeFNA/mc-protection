@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.3] - 2022-03
+
+### Added
+
+#### User related stuff
+
+- Invalid first/second login packets can now be configured manually in the config
+
+## [1.7.2] - 2022-03
+
+### Changed
+
+#### User related stuff
+
+- Fixed 1.18.2 support
+- Updated all dependencies and removed FastUtil
+
 ## [1.7.1] - 2022-02
 
 ### Changed
