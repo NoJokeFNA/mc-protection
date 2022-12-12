@@ -2,6 +2,79 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.8] - 2022-12
+
+### Added
+
+#### User related stuff
+
+- Fixed NullPointerException
+
+## [1.8.7] - 2022-12
+
+### Added
+
+#### User related stuff
+
+- Added 1.19.3 support 
+
+## [1.8.5] - 2022-08
+
+### Added
+
+#### User related stuff
+
+- Fixed all known issues
+
+## [1.8.4] - 2022-08
+
+### Added
+
+#### User related stuff
+
+- Added 1.19.2 support
+
+### Removed 
+
+#### User related stuff
+
+- Removed {PING} placeholder during fall-/captcha check 
+
+## [1.8.3] - 2022-08
+
+### Added
+
+#### User related stuff
+
+- Added 1.19.1 support (skip drop & captcha for now)
+
+## [1.8.2] - 2022-07
+
+### Added
+
+#### User related stuff
+
+- Fixed an issue where the config messages were not displayed during verification
+
+## [1.8.1] - 2022-07
+
+### Added
+
+#### User related stuff
+
+- Fixed 1.19 support
+- Added mc-brand to config (change F3 text)
+
+## [1.8.0] - 2022-07
+
+### Added
+
+#### User related stuff
+
+- Added 1.19 support
+- Added clean-console option to config to stop spamming "favicon" message
+- Added session-url to config
+
 ## [1.7.3] - 2022-03
 
 ### Added
