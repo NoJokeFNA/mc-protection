@@ -42,7 +42,7 @@
    - If you face any issues with this, try the following solutions:
      - Install `libfontconfig1` and/or `fontconfig` and/or `libxtst6` to your system: `sudo apt-get install <package-name>`
      - Add `-Djava.awt.headless=true` to your startup flags (`java -Xmx... ... -Djava.awt.headless=true -jar BungeeCord.jar`)
-   - If you are using [pterodactyl](https://pterodactyl.io/), use one of the images provided [here](https://github.com/AktiCube/containers) according to the Java version you would like to use.
+   - If you are using [Pterodactyl](https://pterodactyl.io/), use one of the images provided [here](https://github.com/AktiCube/containers) according to the Java version you would like to use.
 
 <hr>
 
