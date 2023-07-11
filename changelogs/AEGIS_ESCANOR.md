@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [2.0] - 2023-07 (Changelog will be adjusted, this is not everything!!)
 
-![Ver](https://img.shields.io/badge/2023--07-2.0.0-f52486?style=for-the-badge)
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2023--07-2.0.0-f52486?style=for-the-badge&#41;)
 
 ![WIP](https://img.shields.io/badge/-🚧_WIP-3a0ca3?style=for-the-badge)
 
@@ -76,7 +76,7 @@ All notable changes to this project will be documented in this file.
     - $underAttack
     - $botCounter
 
-![Fixes](https://img.shields.io/badge/-❗_Fixed-0466c8?style=for-the-badge)
+![Fixed](https://img.shields.io/badge/-❗_Fixed-0466c8?style=for-the-badge)
 
 - Fixed BungeeCord modules were not downloaded automatically
   - You must have the following packages installed for this to work:
@@ -124,74 +124,119 @@ All notable changes to this project will be documented in this file.
   - Arvizzu#1001
   - [McDown](https://mcdown.pw/)
     - Now they have stopped their services, but I have tested a lot with it
+
+
+[//]: # (![Helpers]&#40;https://img.shields.io/badge/-✨_Helpers-3a0ca3?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (![Fixed]&#40;https://img.shields.io/badge/-❗_Fixed-0466c8?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # (![Changed]&#40;https://img.shields.io/badge/-❗_Changed-ffeb3b?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # (> ![DEV]&#40;https://img.shields.io/badge/-Dev_Stuff-2b9348?style=flat-square&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (![Added]&#40;https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # (![Removed]&#40;https://img.shields.io/badge/-➖_Removed-e01e37?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # (> ![User_stuff]&#40;https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.8-f52486?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # (![WIP]&#40;https://img.shields.io/badge/-🚧_WIP-3a0ca3?style=for-the-badge&#41;)
+
+[//]: # ()
+[//]: # (###########################################################################################)
+
 ## [1.8.8] - 2022-12
 
-### Added
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.8-f52486?style=for-the-badge&#41;)
 
-#### User related stuff
+
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed NullPointerException
 
 ## [1.8.7] - 2022-12
 
-### Added
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.7-f52486?style=for-the-badge&#41;)
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Added 1.19.3 support 
 
 ## [1.8.5] - 2022-08
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed all known issues
 
 ## [1.8.4] - 2022-08
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Added 1.19.2 support
 
-### Removed 
+![Removed](https://img.shields.io/badge/-➖_Removed-e01e37?style=for-the-badge)
 
-#### User related stuff
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Removed {PING} placeholder during fall-/captcha check 
 
 ## [1.8.3] - 2022-08
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Added 1.19.1 support (skip drop & captcha for now)
 
 ## [1.8.2] - 2022-07
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed an issue where the config messages were not displayed during verification
 
 ## [1.8.1] - 2022-07
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed 1.19 support
 - Added mc-brand to config (change F3 text)
 
 ## [1.8.0] - 2022-07
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Added 1.19 support
 - Added clean-console option to config to stop spamming "favicon" message
@@ -199,80 +244,85 @@ All notable changes to this project will be documented in this file.
 
 ## [1.7.3] - 2022-03
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Invalid first/second login packets can now be configured manually in the config
 
 ## [1.7.2] - 2022-03
 
-### Changed
+![Changed](https://img.shields.io/badge/-❗_Changed-ffeb3b?style=for-the-badge)
 
-#### User related stuff
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed 1.18.2 support
 - Updated all dependencies and removed FastUtil
 
 ## [1.7.1] - 2022-02
 
-### Changed
+![Changed](https://img.shields.io/badge/-❗_Changed-ffeb3b?style=for-the-badge)
 
-#### User related stuff
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - 1.18.2 player bypass captcha and drop check for now until this error is getting fixed
 
 ## [1.7.0] - 2022-02
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Added 1.18.2 support
 - Allow `-` and `.` in online mode as some accounts still have these usernames
 
 ## [1.6.1] - 2022-02
 
-### Fixed
+![Fixed](https://img.shields.io/badge/-❗_Fixed-0466c8?style=for-the-badge)
 
-#### User related stuff
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed Geyser issue
 - Fixed a bug where you couldn't join and also not receive an error message
 
-### Changed
+![Changed](https://img.shields.io/badge/-❗_Changed-ffeb3b?style=for-the-badge)
 
 - Changed Geyser section in config (enable skip-drop to make Aegis work with Geyser)
 
 ## [1.6.0] - 2022-01
 
-### Fixed
+![Fixed](https://img.shields.io/badge/-❗_Fixed-0466c8?style=for-the-badge)
 
-#### User related stuff
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed Geyser-support
 
 ## [1.5.0] - 2021-12
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Added 1.18 support
 
 ## [1.4.1] - 2021-08
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Fixed Geyser support
 
 ## [1.4.0] - 2021-08
 
-### Added
 
-#### User related stuff
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
 
 - Cleaned up much code
 - Added geyser support - you have to regenerate your config and enable the support
@@ -289,13 +339,13 @@ All notable changes to this project will be documented in this file.
 - Added blacklist name feature like in normal aegis
 - Greatly improved ColouredWriter [@Outfluencer](https://github.com/SpigotMC/BungeeCord/pull/3164)
 
-#### Developer related stuff
+> ![DEV](https://img.shields.io/badge/-Dev_Stuff-2b9348?style=flat-square)
 
 - Fixed SLF4J logger
 - Fixed Java CI with Maven
     - Improved Java CI with Maven cache
 
-### Changed
+![Changed](https://img.shields.io/badge/-❗_Changed-ffeb3b?style=for-the-badge)
 
 - Fixed some typos
 - Fixed some wrong prefixes
@@ -305,6 +355,6 @@ All notable changes to this project will be documented in this file.
 - Fixed BungeeTask issues
 - Re-did some messages
 
-### Removed
+![Removed](https://img.shields.io/badge/-➖_Removed-e01e37?style=for-the-badge)
 
 - Some useless checks
