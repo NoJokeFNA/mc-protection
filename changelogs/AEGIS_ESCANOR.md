@@ -1,6 +1,24 @@
-# Aegis (Escanor) changelog
+# Aegis Escanor changelog
 
 All notable changes to this project will be documented in this file.
+
+
+## [2.0.1] - 2023-08
+
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.8-f52486?style=for-the-badge&#41;)
+
+
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
+
+- Added bypass-protocols to config - all version in the list will bypass the fall & drop check
+- Added max-handshake-length to config
+- BungeeCord & BotFilter Upstream
+
+![Fixed](https://img.shields.io/badge/-❗_Fixed-0466c8?style=for-the-badge)
+- Fixed rare-case scenario where you couldn't join the server (Handshake)
+- Fixed exception during blacklist file creation
 
 ## [2.0] - 2023-07 (Changelog will be adjusted, this is not everything!!)
 
@@ -56,7 +74,7 @@ All notable changes to this project will be documented in this file.
 - Improved captcha generation
   - The console will no longer be frozen until it is finished
 - Finished old Aegis antibot-shells
-- Added an option where you can change the fall-duration for the fallcheck
+- Added an option where you can change the fall-duration for the fall check
 - Added full Geyser-/ and TCP-Shield support
 - Added  more database providers: MySQL, H2 and MongoDB
   - We also dropped SQLite support - it's slower than H2 and simple not needed any longer
@@ -109,17 +127,17 @@ All notable changes to this project will be documented in this file.
 ![Helpers](https://img.shields.io/badge/-✨_Helpers-3a0ca3?style=for-the-badge)
 
 - A big thank you to all the beta testers who tested the resource with me and reported issues
-  - ❥Aniket#0775
+  - .aniket
   - Dog#2394
-  - Kokos#0473
+  - kokos555
   - marlon#1000
   - Suspect#1234
-  - WilliDieEnte#0308
+  - WilliDieEnte
   - Haoshoku#1507
   - XF24XF#7992 (bot-testing)
-  - xIsm4#9127 (bot-testing)
-  - Louis (Obfuscation config)
-  - Ghast (Obfuscation - Skidfuscator)
+  - xIsm4 (bot-testing)
+  - Louis.rds (Obfuscation config)
+  - Ghast [terminalsin] (Obfuscation - Skidfuscator)
 - Also, a big thanks to the guys who provided great bot services for testing purposes
   - Arvizzu#1001
   - [McDown](https://mcdown.pw/)
@@ -157,6 +175,44 @@ All notable changes to this project will be documented in this file.
 
 [//]: # ()
 [//]: # (###########################################################################################)
+
+## [1.9.2] - 2023-08
+
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.8-f52486?style=for-the-badge&#41;)
+
+
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
+
+- Added 1.20.x support
+
+## [1.9.1] - 2023-03
+
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.8-f52486?style=for-the-badge&#41;)
+
+
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
+
+- BungeeCord Upstream
+- Enabled captcha for 1.19.4
+- Fixed errors with older versions (Upstream)
+
+## [1.9.0] - 2023-03
+
+[//]: # (![Ver]&#40;https://img.shields.io/badge/2022--12-1.8.8-f52486?style=for-the-badge&#41;)
+
+
+![Added](https://img.shields.io/badge/-➕_Added-38b000?style=for-the-badge)
+
+> ![User_stuff](https://img.shields.io/badge/-User_stuff-ff7b00?style=flat-square)
+
+- Added 1.19.4 support
+- Skip captcha for 1.19.4 clients (for now)
+- BungeeCord Upstream
+- Optimized captcha generation (should be faster now)
 
 ## [1.8.8] - 2022-12
 
