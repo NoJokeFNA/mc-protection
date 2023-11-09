@@ -1,4 +1,4 @@
-# <img src="https://cdn.discordapp.com/emojis/766567803330887690.webp?size=96&quality=lossless" width="3%"> <b>Basic security & setup</b>
+# <img src="https://ente.dev/api/images/mc-protection96.webp" width="3%"> <b>Basic security & setup</b>
 
 ## <b>❤️‍🔥 Firewall</b>
  - You should use a good firewall that limits PPS & CPS so that bot systems can't reach their full performance.
@@ -35,7 +35,7 @@
        
 <hr>
 
-## <img src="https://cdn.discordapp.com/emojis/766676779049418762.webp?size=96&quality=lossless" width="3%"> <b> Aegis</b>
+## <img src="https://ente.dev/api/images/766676779049418762.webp" width="3%"> <b> Aegis</b>
  - With Aegis, you are protected by two basic checks (drop and captcha), which certainly don't bypass all bots, but you have to buy a subscription of 15+ euros - if it's not even false advertising.
  - Through umpteen other checks, as well as logical processors that check if it's a bot, you can also be extra protected again.
  - If you use our captcha feature, you may have to install one package on your system: `sudo apt-get install font-manager`
